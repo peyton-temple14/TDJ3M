@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\peyton.temple\\Documents\\GitHub\\TDJ3M\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\peyton.temple\\Documents\\GitHub\\TDJ3M\\08b-avec-selecteurs\\css2.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:08b-avec-selecteurs\\css2.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\peyton.temple\\Documents\\GitHub\\TDJ3M\\09-modele-de-boite\\boite.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:09-modele-de-boite\\boite.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "css2.html",
-              "DocumentMoniker": "C:\\Users\\peyton.temple\\Documents\\GitHub\\TDJ3M\\08b-avec-selecteurs\\css2.html",
-              "RelativeDocumentMoniker": "08b-avec-selecteurs\\css2.html",
-              "ToolTip": "C:\\Users\\peyton.temple\\Documents\\GitHub\\TDJ3M\\08b-avec-selecteurs\\css2.html",
-              "RelativeToolTip": "08b-avec-selecteurs\\css2.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAArAAAA",
+              "Title": "boite.html",
+              "DocumentMoniker": "C:\\Users\\peyton.temple\\Documents\\GitHub\\TDJ3M\\09-modele-de-boite\\boite.html",
+              "RelativeDocumentMoniker": "09-modele-de-boite\\boite.html",
+              "ToolTip": "C:\\Users\\peyton.temple\\Documents\\GitHub\\TDJ3M\\09-modele-de-boite\\boite.html",
+              "RelativeToolTip": "09-modele-de-boite\\boite.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-01-12T14:01:04.504Z",
+              "WhenOpened": "2026-01-14T14:32:40.336Z",
               "EditorCaption": ""
             }
           ]
